@@ -1,0 +1,1 @@
+# persistent-git-task-Git-fetch-merge-conflict-checkout
